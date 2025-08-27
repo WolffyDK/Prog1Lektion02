@@ -1,9 +1,9 @@
-package opgave01;
+package opgave02;
 
+import java.util.Formatter;
 import java.util.Scanner;
 
-public class CalculateVat {
+public class MilesConverter {
     public static void main(String[] args) {
-        //Beskriv din algoritme
     }
 }

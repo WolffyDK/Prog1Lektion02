@@ -1,7 +1,6 @@
 package opgave03;
 
-public class BookExercise2_2 {
+public class BMICalculator {
     public static void main(String[] args) {
-
     }
 }
